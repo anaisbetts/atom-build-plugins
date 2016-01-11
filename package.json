@@ -1,6 +1,6 @@
 {
   "name": "atom-build-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All of the build-* plugins from atombuild.github.io",
   "main": "index.js",
   "scripts": {
