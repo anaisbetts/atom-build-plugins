@@ -1,0 +1,24 @@
+{
+  "name": "atom-build-plugins",
+  "version": "1.0.0",
+  "description": "All of the build-* plugins from atombuild.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Betts",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "build-cargo": "git+https://github.com/AtomBuild/atom-build-cargo.git",
+    "build-elixir": "git+https://github.com/AtomBuild/atom-build-elixir.git",
+    "build-gradle": "git+https://github.com/AtomBuild/atom-build-gradle.git",
+    "build-grunt": "git+https://github.com/AtomBuild/atom-build-grunt.git",
+    "build-make": "git+https://github.com/AtomBuild/atom-build-make.git",
+    "build-npm-apm": "git+https://github.com/AtomBuild/atom-build-npm-apm.git",
+    "build-sbt": "git+https://github.com/jamesward/atom-build-sbt.git",
+    "build-xcodebuild": "git+https://github.com/AtomBuild/build-xcodebuild.git"
+  }
+}
