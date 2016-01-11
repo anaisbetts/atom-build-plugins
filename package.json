@@ -19,6 +19,7 @@
     "build-make": "git+https://github.com/AtomBuild/atom-build-make.git",
     "build-npm-apm": "git+https://github.com/AtomBuild/atom-build-npm-apm.git",
     "build-sbt": "git+https://github.com/jamesward/atom-build-sbt.git",
-    "build-xcodebuild": "git+https://github.com/AtomBuild/build-xcodebuild.git"
+    "build-xcodebuild": "git+https://github.com/AtomBuild/build-xcodebuild.git",
+    "debug": "^2.2.0"
   }
 }
